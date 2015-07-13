@@ -19,7 +19,7 @@
     "scrape",
     "webscraper"
   ],
-  "author": "Oleksii Sribnyi",
+  "author": "Oleksii Sribnyi,vikram ravichandran",
   "license": "MIT",
   "homepage": "https://github.com/codemanki/cloudscraper",
   "dependencies": {
